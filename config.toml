@@ -1,3 +1,79 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "http://www.example.com"
+title = "Marshal Ashif Shawkat"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Marshal Ashif Shawkat"
+  info = "Human | Student | Curious"
+  description = "Marshal Ashif Shawkat's personal website"
+  keywords = "personal, CV, blog"
+  avatarurl = "home/Marshal.jpg"
+  #gravatar = "john.doe@example.com"
+
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
+
+  #since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Marshal-Ashif-Shawkat"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 2
+  url = "mailto:marshalashif21@gmail.com"
+[[params.social]]
+  name = "Facebook"
+  icon = "fa fa-facebook fa-2x"
+  weight = 3
+  url = "https://www.facebook.com/marshal.ashif/"
+
+# Menu links
+[[menu.main]]
+  name = "About me"
+  weight = 1
+  url = "about/about"
+[[menu.main]]
+  name = "Download CV"
+  weight = 2
+  url  = "https://drive.google.com/file/d/15ime7cKId4WuPplex4JZrXvkakrjgoEO/view?usp=share_link"
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "blog/"
+[[menu.main]]
+  name = "Projects"
+  weight = 4
+  url  = "projects/projects"
+[[menu.main]]
+  name = "Contact me"
+  weight = 5
+  url  = "contact/contact-me"
