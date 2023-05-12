@@ -60,4 +60,6 @@ And now, as you graduate to begin anew, I wish that for you. **Stay Hungry. Stay
 Thank you all very much.  
 
 # Source Video
-{{< youtube id="UF8uR6Z6KLc&t=523s" autoplay="false" title="Steve Jobs' 2005 Stanford Commencement Address">}}
+[comment]: {{< youtube id="UF8uR6Z6KLc&t=523s" autoplay="false" title="Steve Jobs' 2005 Stanford Commencement Address">}}  
+
+[Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=523s)
