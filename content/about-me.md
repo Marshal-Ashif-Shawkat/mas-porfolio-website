@@ -3,7 +3,9 @@ title: About me
 date: 2023-05-10 
 ---
 
-> If I can't become the sun that shines on the earth, I still can be a lamp that shines a street. - 12th Fail
+> If I can't become the sun that shines on the earth, I still can be a lamp that shines a street.
+>
+> \- 12th Fail
 
 
 I am a human. People call me Marshal. It is Marshal Ashif Shawkat on my certificate. I want to teach machines how to think. I love open-source software and technology. Despite being overweight, I fail to push myself to do exercise.   

@@ -16,7 +16,7 @@ style = "github-dark"
   info = "Human | Student | Curious"
   description = "Marshal Ashif Shawkat's personal website"
   keywords = "personal, CV, blog"
-  avatarurl = "home/Marshal.jpg"
+  avatarurl = "home/Marshal.webp"
   #gravatar = "john.doe@example.com"
 
   #favicon_32 = "/img/favicon-32x32.png"
@@ -26,7 +26,7 @@ style = "github-dark"
 
   enableTwemoji = true
 
-  colorScheme = "dark"
+  colorScheme = "auto"
   hidecolorschemetoggle = false
 
   # customCSS = ["css/custom.css"]
@@ -60,7 +60,7 @@ style = "github-dark"
 [[menu.main]]
   name = "About me"
   weight = 1
-  url = "about/about"
+  url = "about-me"
 [[menu.main]]
   name = "Download CV"
   weight = 2
@@ -76,4 +76,4 @@ style = "github-dark"
 [[menu.main]]
   name = "Contact me"
   weight = 5
-  url  = "contact/contact-me"
+  url  = "contact-me"
