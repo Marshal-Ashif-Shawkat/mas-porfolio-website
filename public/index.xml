@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marshal Ashif Shawkat</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Marshal Ashif Shawkat</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon</title>
+      <link>http://localhost:1313/projects/projects/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/projects/</guid>
+      <description>&lt;p&gt;I will write soon (Hopefully)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Steve Jobs&#39; Speech Inspires Me</title>
+      <link>http://localhost:1313/blog/steve-jobs-speech/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/steve-jobs-speech/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/steve-jobs-speech/cover.jpg&#34;&#xA;    alt=&#34;Steve Jobs&#34; height=&#34;320&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;For the last two days, I have been trying to write down my first blog for my website. But due to sheer laziness, I haven&amp;rsquo;t even written a single word. Yesterday the speech of Steves Jobs struck my head suddenly. I had read it long before. It inspired me a lot. So, I decided why not write down the speech as a blog in the hope that I will look back to the blog when I feel a bit off.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>http://localhost:1313/contact-me/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact-me/</guid>
+      <description>&lt;p&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/marshal.ashif/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.facebook.com/marshal.ashif/&lt;/a&gt;&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:marshalashif21@gmail.com&#34; &gt;marshalashif21@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If I can&amp;rsquo;t become the sun that shines on the earth, I still can be a lamp that shines a street.&lt;/p&gt;&#xA;&lt;p&gt;- 12th Fail&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I am a human. People call me Marshal. It is Marshal Ashif Shawkat on my certificate. I want to teach machines how to think. I love open-source software and technology. Despite being overweight, I fail to push myself to do exercise.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I am pursuing B.Sc. in biomedical engineering at Bangladesh University of Engineering and Technology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
