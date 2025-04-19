@@ -1,4 +1,8 @@
-# Brain Tumor Classification Using Deep Learning: A BME 310 Project
+---
+title: Brain Tumor Classification Using Deep Learning: A BME 310 Project
+date: 2025-04-19  
+tags: ['Deep learning', 'Machine learning', 'Project', 'Brain tumor']  
+---
 
 Hello everyone! This post showcases a project my partner, Ifreet Tahia, and I completed for our BME 310 lab, "Communicating Protocols for Biomedical Instruments Sessional". This lab introduced us to Python programming and essential libraries for machine learning like NumPy, Pandas, Matplotlib, Scikit-learn, and SciPy.
 
